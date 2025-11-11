@@ -10,7 +10,7 @@
     "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.4.8",
     "bcryptjs": "^2.4.3",
-    "cloudinary": "^1.15.0",
+    "cloudinary": "^2.7.0",
     "cors": "^2.8.5",
     "dotenv": "^7.0.0",
     "esm": "^3.2.25",
